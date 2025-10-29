@@ -1,0 +1,5 @@
+pandas>=1.5.0
+requests>=2.31.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+rapidfuzz>=2.8.0
