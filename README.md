@@ -48,7 +48,7 @@ This project explores the potential of OpenAIRE to track research data and softw
 5. **Exploratory Analysis**
 - Summarize: Open Access labels, publication years, hosting sources, topics, citation counts.
 
--- 
+---
 
 ## Usage
 
@@ -56,7 +56,7 @@ This project explores the potential of OpenAIRE to track research data and softw
 2. Install dependencies: *pip install -r requirements.txt*
 3. Run notebook *Dataset_Software_OpenAIRE.ipynb*
 
--- 
+---
 
 ## License
 
